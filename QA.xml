@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<QandA>
+	<pair>
+		<question>Howared Wolowitz is a character from which popular U.S. TV show?</question>
+		<answer>The Big Bang Theory</answer>
+		<hint>It did not bomb</hint>
+	</pair>
+	<pair>
+		<question>In which city where the 2016 summer Olympics held?</question>
+		<answer>Rio, Brazil</answer>
+		<hint>The athletes enjoyed the Copacabana beach</hint>
+	</pair>
+	<pair>
+		<question>Who topped Billboard charts with the single "Love Yourself" in February, 2016?</question>
+		<answer>Justin Bieber</answer>
+		<hint>You can do this...Never Say Never</hint>
+	</pair>
+	<pair>
+		<question>Which author wrote Jurassic Park?</question>
+		<answer>Michael Crichton</answer>
+		<hint>He was 6'9" tall</hint>
+	</pair>
+	<pair>
+		<question>Who won the first American Idol?</question>
+		<answer>Kelly Clarkson</answer>
+		<hint>Since U Been Gone</hint>
+	</pair>
+</QandA>

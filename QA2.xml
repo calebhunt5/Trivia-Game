@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<QandA>
+  <pair>
+    <question>In which city where the 2016 summer Olympics held?</question>
+    <answer>Rio, Brazil</answer>
+    <hint>The athletes enjoyed the Copacabana beach</hint>
+  </pair>
+  <pair>
+    <question>Who topped Billboard charts with the single "Love Yourself" in February, 2016?</question>
+    <answer>Justin Bieber</answer>
+    <hint>You can do this...Never Say Never</hint>
+  </pair>
+  <pair>
+    <question>Was this question updated?</question>
+    <answer>Yes</answer>
+    <hint>Can you read it?</hint>
+  </pair>
+  <pair>
+    <question>Who won the first American Idol?</question>
+    <answer>Kelly Clarkson</answer>
+    <hint>Since U Been Gone</hint>
+  </pair>
+  <pair>
+    <question>Who wrote this program?</question>
+    <answer>Caleb Hunter</answer>
+    <hint>A student at SVSU</hint>
+  </pair>
+</QandA>
